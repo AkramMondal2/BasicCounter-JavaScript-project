@@ -1,4 +1,4 @@
-# BasicCounter-JavaScript-project-1 
+# BasicCounter-JavaScript-project
 
 
 
